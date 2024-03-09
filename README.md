@@ -1,4 +1,4 @@
-# Amazon Website Product Adding Test
+# Amazon Website Adding Product Test
 
 **Feature:** Amazon.com adding product test
 
@@ -35,5 +35,5 @@ Selenium WebDriver, Cucumber BDD, TestNG
   
 ## Demo
 
-![](amazon.gif)
+![](amazonproduct.gif)
 
