@@ -1,12 +1,12 @@
 # Amazon Website Adding Product Test
 
-**Feature:** Amazon.com adding product test
+**Feature:** Amazon.com.tr adding product test
 
-  **Scenario:** Amazon.com adding product
+  **Scenario:** Amazon.com.tr adding product
 
   **Test Cases:**
 
--User is on home page
+  -User is on home page
 
   -Click accept cookies
 
