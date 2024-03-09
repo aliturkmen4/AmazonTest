@@ -34,6 +34,7 @@ Selenium WebDriver, Cucumber BDD, TestNG
 
   
 ## Demo
+![amazon](https://github.com/aliturkmen4/AmazonTest/assets/84051961/5f3281f5-a14b-4de4-9a9f-478cc436636f)
+**Testin Demosu**
 
-![](amazonproduct.gif)
 
