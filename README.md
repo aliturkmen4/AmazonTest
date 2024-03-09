@@ -11,5 +11,4 @@ Feature:Amazon.com adding product test
   -Click the first product
   -Add to cart
   -Check the cart page
-  ![Uploading amazon.gif…]()
 
