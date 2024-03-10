@@ -27,8 +27,7 @@
   -Check the cart page
 
 
-
-## Kullanılan Teknolojiler
+## Used Technologies
 
 Selenium WebDriver, Cucumber BDD, TestNG
 
